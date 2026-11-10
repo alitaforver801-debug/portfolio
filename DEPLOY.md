@@ -1,4 +1,7 @@
-# 发布到 GitHub Pages（3 步）
+# 发布到 GitHub Pages
+
+> 已完成（2026-11-10）：仓库 https://github.com/alitaforver801-debug/portfolio ，Pages https://alitaforver801-debug.github.io/portfolio/ 。
+> 下面是以后换机/重建时的步骤。
 
 > 前提：GitHub 账号 alitaforver801-debug 已登录（本机 `gh` token 已过期，需要重新登录：`gh auth login`）。
 

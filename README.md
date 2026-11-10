@@ -20,6 +20,12 @@
 完整作品集（视频、剧本节选、活动记录）：
 https://pan.baidu.com/s/1XobOB6gTKZqjmV9o9sCReA?pwd=g3p2 （提取码 g3p2）
 
+## 在线地址
+
+- 主页：https://alitaforver801-debug.github.io/portfolio/
+- 仓库：https://github.com/alitaforver801-debug/portfolio
+- 简历直链：https://alitaforver801-debug.github.io/portfolio/resume.pdf
+
 ## 本地预览
 
 直接用浏览器打开 `index.html` 即可；或：
@@ -43,3 +49,4 @@ python3 -m http.server 8000
 ## 更新记录
 
 - 2026-11-10：初版（基于 2026-11 通用版简历内容搭建）
+- 2026-11-10：已发布到 GitHub Pages（portfolio 仓库，main/root）
