@@ -7,7 +7,7 @@
 ## 内容
 
 - `index.html` —— 作品集主页（单页，响应式）
-- `assets/马斯远-通用版简历.pdf` —— 简历下载
+- `resume.pdf` —— 简历下载
 - `site-preview.png` —— 页面截图
 
 ## 代表作品
